@@ -9,5 +9,5 @@ Things to keep in mind:
 - There may be other revisions of the SuperGrafx motherboard that I am not aware of, and may not be compatible in some way with this replica board. If you come across this, please let me know!
 
 ## BOM ## 
-*Bill of materials coming soon*
+[Interactive BOM](https://antipixel.github.io/openSGX/ibom.html)
 
