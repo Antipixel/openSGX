@@ -11,3 +11,4 @@ Things to keep in mind:
 ## BOM ## 
 [Interactive BOM](https://antipixel.github.io/openSGX/ibom.html)
 
+### Schematic, KiCad and 3D models to follow shortly ### 
